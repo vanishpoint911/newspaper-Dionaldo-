@@ -1,0 +1,31 @@
+body{
+    background-color: cyan;
+
+}
+h1{
+    color: blue;
+    
+}
+h2{
+    text-align: center;
+}
+
+.sub1{
+    font-weight:bold;
+    text-decoration: underline
+    ;
+}
+.c1{
+color: hsl(0, 0%, 50%);
+}
+.c2{
+    color: #FF00FF;
+}
+.c3{
+    color: rgb(255, 165, 0)
+    ;
+}
+.sub2{
+    font-weight:bold;
+    text-decoration: underline
+}
